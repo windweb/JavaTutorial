@@ -1,4 +1,4 @@
-public class Types {
+public class Typesmy {
     public static void main(String[] args) {
 
         // Объявление переменной типа int и присвоение ей значения 30

@@ -14,5 +14,18 @@ public class ArithmeticExpressionsmy {
         int y = x++;
         System.out.println(y);
 
+        // ++x; отличается от x++;
+        // переменная x не увеличивается, а просто увеличивается
+
+        int z = 10;
+        System.out.println(z);
+        int w = ++z;
+        System.out.println(z);
+        int t = z++;
+        System.out.println(z);
+
+        System.out.println(w);
+        System.out.println(t);
+
     }
 }

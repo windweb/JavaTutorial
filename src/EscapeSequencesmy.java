@@ -21,7 +21,7 @@ Escape-последовательности в Java используются д�
 
  */
 
-public class EscapeSequences {
+public class EscapeSequencesmy {
     public static void main(String[] args) {
         // \n : Перевод строки. Используется для создания новой строки.
         System.out.println("First line\nSecond line");
