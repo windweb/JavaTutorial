@@ -1,4 +1,4 @@
-public class Stringsmy {
+public class F004_Strings {
     public static void main(String[] args) {
         String message = "Hello World" + "!!"; /* Конкатенация строк (+)*/
         System.out.println(message);

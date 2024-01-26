@@ -1,4 +1,4 @@
-public class ArithmeticExpressionsmy {
+public class F009_ArithmeticExpressions {
     public static void main(String[] args) {
         int result1 = 10 / 3;
         System.out.println(result1); // result = 3

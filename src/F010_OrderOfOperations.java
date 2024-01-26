@@ -1,4 +1,4 @@
-public class OrderOfOperationsmy {
+public class F010_OrderOfOperations {
     public static void main(String[] args) {
 
         int x = 10 + 3 * 2;

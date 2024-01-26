@@ -16,7 +16,7 @@ boolean: логический тип, который может быть либ�
 */
 
 
-public class PrimitiveTypes {
+public class F002_PrimitiveTypes {
     public static void main(String[] args){
         byte age = 30;
         System.out.println(age);
