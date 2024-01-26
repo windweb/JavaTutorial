@@ -28,26 +28,26 @@
 - [x] [F010_OrderOfOperations.java](src/F010_OrderOfOperations.java) / Порядок операций
 - [x] [F011_Casting.java](src/F011_Casting.java) / Приведение типов
 - [x] [F012_TheMathClass.java](src/F012_TheMathClass.java) / Класс Math
-- [ ] Formatting Numbers / Форматирование чисел
-- [ ] Reading Input / Чтение ввода
-- [ ] Project: Mortgage Calculator / Проект: Калькулятор ипотеки
-- [ ] Solution: Mortgage Calculator / Решение: Калькулятор ипотеки
-- [ ] Types Summary / Сводка по типам данных
-- [ ] Control Flow / Управление потоком
-- [ ] Comparison Operators / Операторы сравнения
-- [ ] Logical Operators / Логические операторы
-- [ ] If Statements / Условные операторы if
-- [ ] Simplifying If Statements / Упрощение условных операторов if
-- [ ] The Ternary Operator / Тернарный оператор
-- [ ] Switch Statements / Операторы switch
-- [ ] Exercise: FizzBuzz / Упражнение: FizzBuzz
-- [ ] For Loops / Циклы for
-- [ ] While Loops / Циклы while
-- [ ] Do...While Loops / Циклы do...while
-- [ ] Break and Continue / Break и Continue
-- [ ] For-Each Loop / Цикл for-each
-- [ ] Project: Mortgage Calculator / Проект: Калькулятор ипотеки
-- [ ] Solution: Mortgage Calculator / Решение: Калькулятор ипотеки
+- [ ] [F013_FormattingNumbers.java](src/F013_FormattingNumbers.java) / Форматирование чисел
+- [ ] [F014_ReadingInput.java](src/F014_ReadingInput.java) / Чтение ввода
+- [ ] [F015_ProjectMortgageCalculator.java](src/F015_ProjectMortgageCalculator.java) / Проект: Калькулятор ипотеки
+- [ ] [F016_SolutionMortgageCalculator.java](src/F016_SolutionMortgageCalculator.java) / Решение: Калькулятор ипотеки
+- [ ] [F017_TypesSummary.java](src/F017_TypesSummary.java) / Сводка по типам данных
+- [ ] [F018_ControlFlow.java](src/F018_ControlFlow.java) / Управление потоком
+- [ ] [F019_ComparisonOperators.java](src/F019_ComparisonOperators.java) / Операторы сравнения
+- [ ] [F020_LogicalOperators.java](src/F020_LogicalOperators.java) / Логические операторы
+- [ ] [F021_IfStatements.java](src/F021_IfStatements.java) / Условные операторы if
+- [ ] [F022_SimplifyingIfStatements.java](src/F022_SimplifyingIfStatements.java) / Упрощение условных операторов if
+- [ ] [F023_TheTernaryOperator.java](src/F023_TheTernaryOperator.java) / Тернарный оператор
+- [ ] [F024_SwitchStatements.java](src/F024_SwitchStatements.java) / Операторы switch
+- [ ] [F025_ExerciseFizzBuzz.java](src/F025_ExerciseFizzBuzz.java) / Упражнение: FizzBuzz
+- [ ] [F026_ForLoops.java](src/F026_ForLoops.java) / Циклы for
+- [ ] [F027_WhileLoops.java](src/F027_WhileLoops.java) / Циклы while
+- [ ] [F028_DoWhileLoops.java](src/F028_DoWhileLoops.java) / Циклы do...while
+- [ ] [F029_BreakAndContinue.java](src/F029_BreakAndContinue.java) / Break и Continue
+- [ ] [F030_ForEachLoop.java](src/F030_ForEachLoop.java) / Цикл for-each
+- [ ] [F031_ProjectMortgageCalculator.java](src/F031_ProjectMortgageCalculator.java) / Проект: Калькулятор ипотеки
+- [ ] [F032_SolutionMortgageCalculator.java](src/F032_SolutionMortgageCalculator.java) / Решение: Калькулятор ипотеки
 - [ ] Control Flow Summary / Сводка по управлению потоком
 - [ ] Clean Coding / Чистый код
 
