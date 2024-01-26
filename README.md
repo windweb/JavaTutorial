@@ -14,19 +14,19 @@
 - [x] Cheat Sheet / Шпаргалка
 - [x] How Java Code Gets Executed / Как выполняется Java-код
 - [x] Course Structure / Структура курса
-- [x] [Types](src%2FTypesmy.java) / Типы данных
-- [x] [Variables](src%2FTypesmy.java) / Переменные
-- [x] [Primitive Types](src%2FPrimitiveTypes.java) / Примитивные типы
-- [x] [Reference Types](src%2FReferenceTypes.java)/ Ссылочные типы
-- [x] Primitive Types vs [Reference Types](src%2FReferenceTypes.java) / Сравнение примитивных и ссылочных типов
-- [x] [Strings](src%2FStringsmy.java) / Строки
-- [x] [Escape Sequences](src%2FEscapeSequencesmy.java) / Escape-последовательности
-- [x] [Arrays](src%2FArraysmy.java) / Массивы
-- [x] [Multi-Dimensional Arrays](src%2FMultiDimensionalArraysmy.java) / Многомерные массивы
-- [x] [Constants](src%2FConstantsmy.java) / Константы
-- [x] [Arithmetic Expressions](src%2FArithmeticExpressionsmy.java) / Арифметические выражения
-- [x] [Order of Operations](src%2FOrderOfOperationsmy.java) / Порядок операций
-- [x] [Casting](src%2FCastingmy.java) / Приведение типов
+- [x] [Types](src%2FF001_Variables.java) / Типы данных
+- [x] [F001_Variables.java](src%2FF001_Variables.java) / Переменные
+- [x] [F002_PrimitiveTypes.java](src%2FF002_PrimitiveTypes.java) / Примитивные типы
+- [x] [F003_ReferenceTypes.java](src%2FF003_ReferenceTypes.java) / Ссылочные типы
+- [x] Primitive Types vs [F003_ReferenceTypes.java](src%2FF003_ReferenceTypes.java) / Сравнение примитивных и ссылочных типов
+- [x] [F004_Strings.java](src%2FF004_Strings.java) / Строки
+- [x] [F005_EscapeSequences.java](src%2FF005_EscapeSequences.java) / Escape-последовательности
+- [x] [F006_Arrays.java](src%2FF006_Arrays.java) / Массивы
+- [x] [F007_MultiDimensionalArrays.java](src%2FF007_MultiDimensionalArrays.java) / Многомерные массивы
+- [x] [F008_Constants.java](src%2FF008_Constants.java) / Константы
+- [x] [F009_ArithmeticExpressions.java](src%2FF009_ArithmeticExpressions.java) / Арифметические выражения
+- [x] [F010_OrderOfOperations.java](src%2FF010_OrderOfOperations.java) / Порядок операций
+- [x] [F011_Casting.java](src%2FF011_Casting.java) / Приведение типов
 - [ ] The Math Class / Класс Math
 - [ ] Formatting Numbers / Форматирование чисел
 - [ ] Reading Input / Чтение ввода
