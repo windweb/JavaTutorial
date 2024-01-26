@@ -1,7 +1,7 @@
 # Java Learning Repository
 
 ## Описание
-Этот репозиторий содержит мои учебные проекты и примеры кода, которые я создал, проходя курс "Java tutorial for beginners" от Mosh на [YouTube](https://www.youtube.com/watch?v=eIrMbAQSU34), а также сопутствующие упражнения с платформы [JavaRush](https://javarush.com).
+Этот репозиторий содержит мои учебные проекты и примеры кода, которые я создал, проходя курс "Java tutorial for beginners" от Mosh на [YouTube](https://www.youtube.com/watch?v=eIrMbAQSU34).
 
 ## Прогресс Курса
 Вот перечень тем, которые я уже прошел, и тех, что еще предстоит изучить:
@@ -50,7 +50,6 @@
 - [ ] Solution: Mortgage Calculator / Решение: Калькулятор ипотеки
 - [ ] Control Flow Summary / Сводка по управлению потоком
 - [ ] Clean Coding / Чистый код
-
 
 ## Дополнительное Обучение
 Я также активно изучаю Java на платформе [JavaRush](https://javarush.com), что помогает мне укрепить и расширить мои знания и навыки программирования.
