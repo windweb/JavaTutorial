@@ -18,7 +18,7 @@
 - [x] [Variables](src%2FTypesmy.java) / Переменные
 - [x] [Primitive Types](src%2FPrimitiveTypes.java) / Примитивные типы
 - [x] [Reference Types](src%2FReferenceTypes.java)/ Ссылочные типы
-- [x] Primitive Types vs Reference Types / Сравнение примитивных и ссылочных типов
+- [x] Primitive Types vs [Reference Types](src%2FReferenceTypes.java) / Сравнение примитивных и ссылочных типов
 - [x] [Strings](src%2FStringsmy.java) / Строки
 - [x] [Escape Sequences](src%2FEscapeSequencesmy.java) / Escape-последовательности
 - [x] [Arrays](src%2FArraysmy.java) / Массивы
