@@ -14,19 +14,19 @@
 - [x] Cheat Sheet / Шпаргалка
 - [x] How Java Code Gets Executed / Как выполняется Java-код
 - [x] Course Structure / Структура курса
-- [x] Types / Типы данных
-- [x] Variables / Переменные
-- [x] Primitive Types / Примитивные типы
-- [x] Reference Types / Ссылочные типы
+- [x] [Types](src%2FTypesmy.java) / Типы данных
+- [x] [Variables](src%2FTypesmy.java) / Переменные
+- [x] [Primitive Types](src%2FPrimitiveTypes.java) / Примитивные типы
+- [x] [Reference Types](src%2FReferenceTypes.java)/ Ссылочные типы
 - [x] Primitive Types vs Reference Types / Сравнение примитивных и ссылочных типов
-- [x] Strings / Строки
-- [x] Escape Sequences / Escape-последовательности
-- [x] Arrays / Массивы
-- [ ] Multi-Dimensional Arrays / Многомерные массивы
-- [ ] Constants / Константы
-- [ ] Arithmetic Expressions / Арифметические выражения
-- [ ] Order of Operations / Порядок операций
-- [ ] Casting / Приведение типов
+- [x] [Strings](src%2FStringsmy.java) / Строки
+- [x] [Escape Sequences](src%2FEscapeSequencesmy.java) / Escape-последовательности
+- [x] [Arrays](src%2FArraysmy.java) / Массивы
+- [x] [Multi-Dimensional Arrays](src%2FMultiDimensionalArraysmy.java) / Многомерные массивы
+- [x] [Constants](src%2FConstantsmy.java) / Константы
+- [x] [Arithmetic Expressions](src%2FArithmeticExpressionsmy.java) / Арифметические выражения
+- [x] [Order of Operations](src%2FOrderOfOperationsmy.java) / Порядок операций
+- [x] [Casting](src%2FCastingmy.java) / Приведение типов
 - [ ] The Math Class / Класс Math
 - [ ] Formatting Numbers / Форматирование чисел
 - [ ] Reading Input / Чтение ввода
