@@ -10,24 +10,24 @@
 - [x] Introduction / Введение
 - [x] Installing Java / Установка Java
 - [x] Anatomy of a Java Program / Анатомия Java-программы
-- [x] Your First Java Program / Ваша первая Java-программа
+- [x] [Main.java](src/Main.java)Your First Java Program / Ваша первая Java-программа
 - [x] Cheat Sheet / Шпаргалка
 - [x] How Java Code Gets Executed / Как выполняется Java-код
 - [x] Course Structure / Структура курса
-- [x] [Types](src%2FF001_Variables.java) / Типы данных
-- [x] [F001_Variables.java](src%2FF001_Variables.java) / Переменные
-- [x] [F002_PrimitiveTypes.java](src%2FF002_PrimitiveTypes.java) / Примитивные типы
-- [x] [F003_ReferenceTypes.java](src%2FF003_ReferenceTypes.java) / Ссылочные типы
-- [x] Primitive Types vs [F003_ReferenceTypes.java](src%2FF003_ReferenceTypes.java) / Сравнение примитивных и ссылочных типов
-- [x] [F004_Strings.java](src%2FF004_Strings.java) / Строки
-- [x] [F005_EscapeSequences.java](src%2FF005_EscapeSequences.java) / Escape-последовательности
-- [x] [F006_Arrays.java](src%2FF006_Arrays.java) / Массивы
-- [x] [F007_MultiDimensionalArrays.java](src%2FF007_MultiDimensionalArrays.java) / Многомерные массивы
-- [x] [F008_Constants.java](src%2FF008_Constants.java) / Константы
-- [x] [F009_ArithmeticExpressions.java](src%2FF009_ArithmeticExpressions.java) / Арифметические выражения
-- [x] [F010_OrderOfOperations.java](src%2FF010_OrderOfOperations.java) / Порядок операций
-- [x] [F011_Casting.java](src%2FF011_Casting.java) / Приведение типов
-- [ ] The Math Class / Класс Math
+- [x] [Types](src/F001_Variables.java) / Типы данных
+- [x] [F001_Variables.java](src/F001_Variables.java) / Переменные
+- [x] [F002_PrimitiveTypes.java](src/F002_PrimitiveTypes.java) / Примитивные типы
+- [x] [F003_ReferenceTypes.java](src/F003_ReferenceTypes.java) / Ссылочные типы
+- [x] Primitive Types vs [F003_ReferenceTypes.java](src/F003_ReferenceTypes.java) / Сравнение примитивных и ссылочных типов
+- [x] [F004_Strings.java](src/F004_Strings.java) / Строки
+- [x] [F005_EscapeSequences.java](src/F005_EscapeSequences.java) / Escape-последовательности
+- [x] [F006_Arrays.java](src/F006_Arrays.java) / Массивы
+- [x] [F007_MultiDimensionalArrays.java](src/F007_MultiDimensionalArrays.java) / Многомерные массивы
+- [x] [F008_Constants.java](src/F008_Constants.java) / Константы
+- [x] [F009_ArithmeticExpressions.java](src/F009_ArithmeticExpressions.java) / Арифметические выражения
+- [x] [F010_OrderOfOperations.java](src/F010_OrderOfOperations.java) / Порядок операций
+- [x] [F011_Casting.java](src/F011_Casting.java) / Приведение типов
+- [x] [F012_TheMathClass.java](src/F012_TheMathClass.java) / Класс Math
 - [ ] Formatting Numbers / Форматирование чисел
 - [ ] Reading Input / Чтение ввода
 - [ ] Project: Mortgage Calculator / Проект: Калькулятор ипотеки
