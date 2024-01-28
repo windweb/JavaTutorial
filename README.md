@@ -29,9 +29,9 @@
 - [x] [F011_Casting.java](src/F011_Casting.java) / Приведение типов
 - [x] [F012_TheMathClass.java](src/F012_TheMathClass.java) / Класс Math
 - [x] [F013_FormattingNumbers.java](src/F013_FormattingNumbers.java) / Форматирование чисел
-- [ ] [F014_ReadingInput.java](src/F014_ReadingInput.java) / Чтение ввода
+- [x] [F014_ReadingInput.java](src/F014_ReadingInput.java) / Чтение ввода
 - [ ] [F015_ProjectMortgageCalculator.java](src/F015_ProjectMortgageCalculator.java) / Проект: Калькулятор ипотеки
-- [ ] [F016_SolutionMortgageCalculator.java](src/F016_SolutionMortgageCalculator.java) / Решение: Калькулятор ипотеки
+- [x] [F016_SolutionMortgageCalculator.java](src/F016_SolutionMortgageCalculator.java) / Решение: Калькулятор ипотеки
 - [ ] [F017_TypesSummary.java](src/F017_TypesSummary.java) / Сводка по типам данных
 - [ ] [F018_ControlFlow.java](src/F018_ControlFlow.java) / Управление потоком
 - [ ] [F019_ComparisonOperators.java](src/F019_ComparisonOperators.java) / Операторы сравнения
