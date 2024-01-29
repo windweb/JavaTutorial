@@ -1,5 +1,11 @@
-/* Switch Statements / Оператор switch -
-переключатель, который позволяет выбрать между несколькими вариантами.
+/* Switch Statements / Оператор switch
+Вложенность логических выражений. switch/case
+switch - оператор выбора.
+case - вариант выбора.
+
+switch - переключатель, который позволяет выбрать между несколькими вариантами.
+case - вариант выбора.
+
 Пример:
 
 int role = 2;
@@ -14,7 +20,7 @@ switch (role) {
      default:
         // do something
 }
-* */
+*/
 
 public class F024_SwitchStatements {
     public static void main(String[] args) {
