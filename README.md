@@ -32,7 +32,7 @@
 - [x] [F014_ReadingInput.java](src/F014_ReadingInput.java) / Чтение ввода
 - [ ] [F015_ProjectMortgageCalculator.java](src/F015_ProjectMortgageCalculator.java) / Проект: Калькулятор ипотеки
 - [x] [F016_SolutionMortgageCalculator.java](src/F016_SolutionMortgageCalculator.java) / Решение: Калькулятор ипотеки
-- [ ] [F017_TypesSummary.java](src/F017_TypesSummary.java) / Сводка по типам данных
+- [x] [F017_TypesSummary.java](src/F017_TypesSummary.java) / Сводка по типам данных
 - [ ] [F018_ControlFlow.java](src/F018_ControlFlow.java) / Управление потоком
 - [ ] [F019_ComparisonOperators.java](src/F019_ComparisonOperators.java) / Операторы сравнения
 - [ ] [F020_LogicalOperators.java](src/F020_LogicalOperators.java) / Логические операторы
