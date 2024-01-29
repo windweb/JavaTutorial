@@ -41,11 +41,11 @@
 - [x] [F023_TheTernaryOperator.java](src/F023_TheTernaryOperator.java) / Тернарный оператор
 - [x] [F024_SwitchStatements.java](src/F024_SwitchStatements.java) / Операторы switch
 - [x] [F025_ExerciseFizzBuzz.java](src/F025_ExerciseFizzBuzz.java) / Упражнение: FizzBuzz
-- [ ] [F026_ForLoops.java](src/F026_ForLoops.java) / Циклы for
-- [ ] [F027_WhileLoops.java](src/F027_WhileLoops.java) / Циклы while
-- [ ] [F028_DoWhileLoops.java](src/F028_DoWhileLoops.java) / Циклы do...while
-- [ ] [F029_BreakAndContinue.java](src/F029_BreakAndContinue.java) / Break и Continue
-- [ ] [F030_ForEachLoop.java](src/F030_ForEachLoop.java) / Цикл for-each
+- [x] [F026_ForLoops.java](src/F026_ForLoops.java) / Циклы for
+- [x] [F027_WhileLoops.java](src/F027_WhileLoops.java) / Циклы while
+- [x] [F028_DoWhileLoops.java](src/F028_DoWhileLoops.java) / Циклы do...while
+- [x] [F029_BreakAndContinue.java](src/F029_BreakAndContinue.java) / Break и Continue
+- [x] [F030_ForEachLoop.java](src/F030_ForEachLoop.java) / Цикл for-each
 - [ ] [F031_ProjectMortgageCalculator.java](src/F031_ProjectMortgageCalculator.java) / Проект: Калькулятор ипотеки
 - [ ] [F032_SolutionMortgageCalculator.java](src/F032_SolutionMortgageCalculator.java) / Решение: Калькулятор ипотеки
 - [ ] Control Flow Summary / Сводка по управлению потоком
