@@ -33,11 +33,11 @@
 - [ ] [F015_ProjectMortgageCalculator.java](src/F015_ProjectMortgageCalculator.java) / Проект: Калькулятор ипотеки
 - [x] [F016_SolutionMortgageCalculator.java](src/F016_SolutionMortgageCalculator.java) / Решение: Калькулятор ипотеки
 - [x] [F017_TypesSummary.java](src/F017_TypesSummary.java) / Сводка по типам данных
-- [ ] [F018_ControlFlow.java](src/F018_ControlFlow.java) / Управление потоком
-- [ ] [F019_ComparisonOperators.java](src/F019_ComparisonOperators.java) / Операторы сравнения
-- [ ] [F020_LogicalOperators.java](src/F020_LogicalOperators.java) / Логические операторы
-- [ ] [F021_IfStatements.java](src/F021_IfStatements.java) / Условные операторы if
-- [ ] [F022_SimplifyingIfStatements.java](src/F022_SimplifyingIfStatements.java) / Упрощение условных операторов if
+- [x] [F018_ControlFlow.java](src/F018_ControlFlow.java) / Управление потоком
+- [x] [F019_ComparisonOperators.java](src/F019_ComparisonOperators.java) / Операторы сравнения
+- [x] [F020_LogicalOperators.java](src/F020_LogicalOperators.java) / Логические операторы
+- [x] [F021_IfStatements.java](src/F021_IfStatements.java) / Условные операторы if
+- [x] [F022_SimplifyingIfStatements.java](src/F022_SimplifyingIfStatements.java) / Упрощение условных операторов if
 - [ ] [F023_TheTernaryOperator.java](src/F023_TheTernaryOperator.java) / Тернарный оператор
 - [ ] [F024_SwitchStatements.java](src/F024_SwitchStatements.java) / Операторы switch
 - [ ] [F025_ExerciseFizzBuzz.java](src/F025_ExerciseFizzBuzz.java) / Упражнение: FizzBuzz
