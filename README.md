@@ -46,10 +46,10 @@
 - [x] [F028_DoWhileLoops.java](src/F028_DoWhileLoops.java) / Циклы do...while
 - [x] [F029_BreakAndContinue.java](src/F029_BreakAndContinue.java) / Break и Continue
 - [x] [F030_ForEachLoop.java](src/F030_ForEachLoop.java) / Цикл for-each
-- [ ] [F031_ProjectMortgageCalculator.java](src/F031_ProjectMortgageCalculator.java) / Проект: Калькулятор ипотеки
-- [ ] [F032_SolutionMortgageCalculator.java](src/F032_SolutionMortgageCalculator.java) / Решение: Калькулятор ипотеки
-- [ ] Control Flow Summary / Сводка по управлению потоком
-- [ ] Clean Coding / Чистый код
+- [x] [F031_ProjectMortgageCalculator.java](src/F031_ProjectMortgageCalculator.java) / Проект: Калькулятор ипотеки
+- [x] [F032_SolutionMortgageCalculator.java](src/F032_SolutionMortgageCalculator.java) / Решение: Калькулятор ипотеки
+- [x] Control Flow Summary / Сводка по управлению потоком
+- [x] Clean Code / Чистый код
 
 ## Дополнительное Обучение
 Я также активно изучаю Java на платформе [JavaRush](https://javarush.com), что помогает мне укрепить и расширить мои знания и навыки программирования.
