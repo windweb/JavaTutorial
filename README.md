@@ -38,9 +38,9 @@
 - [x] [F020_LogicalOperators.java](src/F020_LogicalOperators.java) / Логические операторы
 - [x] [F021_IfStatements.java](src/F021_IfStatements.java) / Условные операторы if
 - [x] [F022_SimplifyingIfStatements.java](src/F022_SimplifyingIfStatements.java) / Упрощение условных операторов if
-- [ ] [F023_TheTernaryOperator.java](src/F023_TheTernaryOperator.java) / Тернарный оператор
-- [ ] [F024_SwitchStatements.java](src/F024_SwitchStatements.java) / Операторы switch
-- [ ] [F025_ExerciseFizzBuzz.java](src/F025_ExerciseFizzBuzz.java) / Упражнение: FizzBuzz
+- [x] [F023_TheTernaryOperator.java](src/F023_TheTernaryOperator.java) / Тернарный оператор
+- [x] [F024_SwitchStatements.java](src/F024_SwitchStatements.java) / Операторы switch
+- [x] [F025_ExerciseFizzBuzz.java](src/F025_ExerciseFizzBuzz.java) / Упражнение: FizzBuzz
 - [ ] [F026_ForLoops.java](src/F026_ForLoops.java) / Циклы for
 - [ ] [F027_WhileLoops.java](src/F027_WhileLoops.java) / Циклы while
 - [ ] [F028_DoWhileLoops.java](src/F028_DoWhileLoops.java) / Циклы do...while
